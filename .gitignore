@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+checkpoints/
+outputs/
+occl_outputs/
+wandb/
+*.pth
+*.pt
+*.ckpt
